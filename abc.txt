@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature is new brach
+=======
+Creating a new branch is quick and simple!
+>>>>>>> feature1
 create a new branch is quick
