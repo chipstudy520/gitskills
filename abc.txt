@@ -1,3 +1,4 @@
+Add bug text
 <<<<<<< HEAD
 feature is new brach
 =======
